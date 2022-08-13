@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Contract Mate",
+  "name": "View in Etherfunk",
   "version": "1.0",
 
-  "description": "Adds a quick access to Etherfunk to contracts on etherscan",
+  "description": "Adds a View in Etherfunk button to contract pages on Etherscan",
 
   "icons": {
     "48": "icons/logo-48.png",
