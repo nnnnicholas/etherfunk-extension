@@ -6,3 +6,6 @@ A browser plugin, which adds a quick access to https://twitter.com/dethcrypto VS
 
 Chrome: https://chrome.google.com/webstore/detail/contract-mate/mbglhphbjpgjhkmhmjcebjoijlnogccp  
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/contract-mate/
+
+## Credit
+fork of contract-mate by @apoorvlathey https://github.com/apoorvlathey/contract-mate which is a for of contract-mate by @jcxia43 https://github.com/jcxia43/contract-mate
